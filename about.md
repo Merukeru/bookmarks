@@ -6,4 +6,4 @@ permalink: /about/
 
 Merukeru
 
-https://github.com/Merukeru
+[https://github.com/Merukeru](https://github.com/Merukeru)
